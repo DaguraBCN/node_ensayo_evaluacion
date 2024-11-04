@@ -1,0 +1,30 @@
+{
+  "name": "node_ensayo_evaluacion",
+  "version": "0.0.1",
+  "description": "Ensayo evaluación NodeJS - Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaguraBCN/node_ensayo_evaluacion.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Dagura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaguraBCN/node_ensayo_evaluacion/issues"
+  },
+  "homepage": "https://github.com/DaguraBCN/node_ensayo_evaluacion#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
